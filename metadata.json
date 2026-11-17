@@ -1,0 +1,6 @@
+{
+  "name": "Saba Beauty Salon — Luxury Hair, Bridal & Skin Studio",
+  "description": "Saba Beauty Salon on Allama Iqbal Road, Garhi Shahu, Lahore. Precision hair styling, dimensional coloring, bridal artistry, facials, men's grooming, and luxury nail care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
